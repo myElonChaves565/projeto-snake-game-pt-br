@@ -1,4 +1,4 @@
-# Snake Game - Projeto em C
+# Snake Game 🐍- Projeto em C
 
 Bem-vindo ao projeto **Snake Game**! Este é um jogo clássico da cobrinha, desenvolvido em C, utilizando as bibliotecas SDL, Raylib e Emscripten. O jogo possui gráficos coloridos, sons e a mecânica clássica, onde o jogador controla a cobrinha e deve comer os itens que aparecem na tela sem bater nas bordas ou no próprio corpo.
 
