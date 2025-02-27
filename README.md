@@ -16,6 +16,7 @@ Bem-vindo ao projeto **Snake Game**! Este é um jogo clássico da cobrinha, dese
 ```bash
 make
 
+```
 2. Execute o arquivo compilado.
 
 ```bash
