@@ -22,6 +22,8 @@ make
 ```bash
 ./game
 
+```
+
 3. Use as teclas de direção (cima, baixo, esquerda, direita) para mover a cobrinha.
 4. O objetivo é comer o maior número possível de itens sem bater nas bordas ou em si mesmo.
 5. A cada item comido, a cobrinha cresce.
